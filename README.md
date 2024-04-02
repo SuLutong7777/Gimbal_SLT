@@ -1,5 +1,7 @@
 # Gimbal_SLT
-This is a C language code for controlling a two-degree-of-freedom gimbal based on the STM32's HAL library.
+这是一个基于STM32 HAL库的二自由度云台控制C语言代码
+
+433协议.pdf为433无线通讯协议
 
 /****************************************测试代码****************************************/
 
